@@ -1,0 +1,65 @@
+html, body{
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  background-image: url('http://hd.wallpaperswide.com/thumbs/real_madrid_4-t2.jpg');
+  background-repeat: no-repeat;
+  background-size: 100%; 
+}
+
+.color {
+    color: white;
+}
+
+.homeVideo {
+    
+}
+
+.menu {
+  width: 200px;
+  float: left;
+  height: 100%;
+  background-color: cornflowerblue;
+  display: inline;
+}
+
+.view-container {
+  text-align: center;
+}
+
+.view-container h1{
+  margin-top: 0;
+}
+
+.homeH1 {
+    color: red;
+    text-align: center;
+}
+
+.homeH3 {
+    color: cornflowerblue;
+    text-align: center;
+}
+
+.productH1 {
+    color: red;
+    text-align: center;
+}
+
+.products {
+    text-align: center;
+}
+
+.settingsH1 {
+    color: red;
+    text-align: center;
+}
+
+.settingsP {
+    color: cornflowerblue;
+    text-align: center;
+}
